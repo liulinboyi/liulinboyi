@@ -1,3 +1,6 @@
+![liulinboyi's github stats](https://github-readme-stats.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+
+
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
 #### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. Currently looking for a job
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
