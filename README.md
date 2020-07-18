@@ -1,4 +1,4 @@
-![liulinboyi's github stats](https://github-readme-stats.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
 
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
