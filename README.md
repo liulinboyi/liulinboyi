@@ -7,6 +7,8 @@
 
 #### 📫 xiaoliumail@foxmail.com
 
+#### My motto is “敏而好学，不耻下问”
+
 <!--
 **liulinboyi/liulinboyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
