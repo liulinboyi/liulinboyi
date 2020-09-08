@@ -4,7 +4,8 @@
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
-#### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. Currently looking for a job
+#### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. 
+<!-- Currently looking for a job -->
 
 #### 📫 xiaoliumail@foxmail.com
 
