@@ -19,7 +19,7 @@
 
 <br/>
 <a href="#">
-  <img align=""left height="27px" src="https://i.loli.net/2020/10/24/OZqd2zs9ouDUcj7.png" />
+<img height="27px" src="https://i.loli.net/2020/10/24/hUWiowPAjGQ176p.png" />
 </a>
 <a href="https://github.com/vuejs/vue-next">
   <img alt="vue-next" width="22px" src="https://i.loli.net/2020/10/24/qpkrfmSwNz2n6aP.png" />
