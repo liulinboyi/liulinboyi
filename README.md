@@ -1,6 +1,27 @@
-![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg)
+<a href="#814921718">
+  <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<a href="#814921718">
+  <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+</a>
+<a href="https://weibo.com/liulinboyi">
+  <img align="left" alt="柳林博弈" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/sinaweibo.svg" />
+</a>
+<a href="https://www.zhihu.com/people/liu-lin-bo-yi-90">
+  <img align="left" alt="柳林博弈" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
+</a>
+<a href="https://github.com/liulinboyi">
+  <img align="left" alt="liulinboyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
+
+<!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
 ![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+<!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
+<img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" />
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
