@@ -18,7 +18,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 
 <br/>
-<b>Contributors to</b>
+<a>
+<img height="27px" src="https://i.loli.net/2020/10/24/OZqd2zs9ouDUcj7.png" />
+</a>
 <a href="https://github.com/vuejs/vue-next">
   <img alt="vue-next" width="22px" src="https://i.loli.net/2020/10/24/qpkrfmSwNz2n6aP.png" />
 </a>
