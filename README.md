@@ -17,6 +17,34 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 
+<br/>
+<b>Contributors to</b>
+<a href="https://github.com/vuejs/vue-next">
+  <img alt="vue-next" width="22px" src="https://i.loli.net/2020/10/24/qpkrfmSwNz2n6aP.png" />
+</a>
+<a href="https://github.com/apache/incubator-echarts">
+  <img alt="echarts" width="22px" src="https://i.loli.net/2020/10/24/kZyvuAWxPSr3XMI.png" />
+</a>
+<a href="https://github.com/vueComponent/ant-design-vue">
+  <img alt="ant-design-vue" width="22px" src="https://i.loli.net/2020/10/24/mtaqd6pPu1eyNYR.png" />
+</a>
+<a href="https://github.com/TencentCloudBase/cloudbase-framework">
+  <img alt="TencentCloudBase" width="22px" src="https://i.loli.net/2020/10/24/elkHYDSqr5sym87.png" />
+</a>
+<a href="https://github.com/spritejs/spritejs">
+  <img alt="spritejs" width="22px" src="https://i.loli.net/2020/10/24/DRZtCPp8mjfwO3F.png" />
+</a>
+<a href="https://github.com/Tencent/Hippy">
+  <img alt="Tencent" width="22px" src="https://i.loli.net/2020/10/24/8jTdqn2yHGiNbRc.png" />
+</a>
+<!-- <a href="https://github.com/liulinboyi">
+  <img alt="wechat-miniprogram" width="22px" src="https://i.loli.net/2020/10/24/1WZebt5i7JSRmvM.png" />
+</a> -->
+<!-- <a href="https://github.com/liulinboyi">
+  <img alt="youzan" width="22px" src="https://i.loli.net/2020/10/24/vQaHj7d8EciqB2u.jpg" />
+</a> -->
+
+
 <!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
 ![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
