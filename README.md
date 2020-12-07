@@ -62,6 +62,8 @@
 
 #### 📫 xiaoliumail@foxmail.com
 
+#### “有时我不得不放下笔，叹口气。但我喜欢这个主题，我不会放弃。” —— <a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%B4%9E%E4%BB%AA">王贞仪</a>
+
 #### My motto is “敏而好学，不耻下问”
 
 <!--
