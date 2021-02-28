@@ -57,14 +57,14 @@
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
-#### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. 
+<!-- #### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. -->
 <!-- Currently looking for a job -->
 
 #### 📫 xiaoliumail@foxmail.com
 
 #### “有时我不得不放下笔，叹口气。但我喜欢这个主题，我不会放弃。” —— <a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%B4%9E%E4%BB%AA">王贞仪</a>
 
-#### My motto is “敏而好学，不耻下问”
+<!-- #### My motto is “敏而好学，不耻下问” -->
 
 <!--
 **liulinboyi/liulinboyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
