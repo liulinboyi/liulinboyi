@@ -53,7 +53,7 @@
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <!-- <img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" /> -->
 
-<img align="right" width="532px" height="399px" src="https://i.loli.net/2020/10/24/p9uHA7jg5LKIY18.jpg" />
+<img align="right" width="50%" height="100%" src="https://i.loli.net/2020/10/24/p9uHA7jg5LKIY18.jpg" />
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
