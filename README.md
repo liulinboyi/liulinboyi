@@ -1,7 +1,7 @@
 <a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
-<a target="_blank" href="tencent://message/?uin=814921718&Site=&Menu=yes">
+<a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://weibo.com/liulinboyi">
