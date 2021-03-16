@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/liulinboyi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+
 <a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
