@@ -21,33 +21,33 @@
 
 <br/>
 <a href="#">
-<img height="27px" src="https://i.loli.net/2021/03/02/SixrmodYy6nEgBC.png" />
+<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458283-29585c00-b72d-11eb-8564-c1465a006c9d.png" />
 </a>
 <a href="https://opencollective.com/china-liulinboyi">
-  <img alt="Sponsors" width="22px" src="https://i.loli.net/2021/03/02/pTJztA9d4lrgksj.png" />
+  <img alt="Sponsors" width="22px" src="https://user-images.githubusercontent.com/41336612/118458353-3d9c5900-b72d-11eb-9679-9f3f42c3ee86.png" />
 </a>
 
 <br/>
 <a href="#">
-<img height="27px" src="https://i.loli.net/2020/10/24/hUWiowPAjGQ176p.png" />
+<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
 </a>
 <a href="https://github.com/vuejs/vue-next">
-  <img alt="vue-next" width="22px" src="https://i.loli.net/2020/10/24/qpkrfmSwNz2n6aP.png" />
+  <img alt="vue-next" width="22px" src="https://user-images.githubusercontent.com/41336612/118458538-73d9d880-b72d-11eb-8ba4-954638e5f0ec.png" />
 </a>
 <a href="https://github.com/apache/incubator-echarts">
-  <img alt="echarts" width="22px" src="https://i.loli.net/2020/10/24/kZyvuAWxPSr3XMI.png" />
+  <img alt="echarts" width="22px" src="https://user-images.githubusercontent.com/41336612/118458897-c3200900-b72d-11eb-86e7-b254baf3bf87.png" />
 </a>
 <a href="https://github.com/vueComponent/ant-design-vue">
-  <img alt="ant-design-vue" width="22px" src="https://i.loli.net/2020/10/24/mtaqd6pPu1eyNYR.png" />
+  <img alt="ant-design-vue" width="22px" src="https://user-images.githubusercontent.com/41336612/118458946-d16e2500-b72d-11eb-80ee-1c8b434aa8d5.png" />
 </a>
 <a href="https://github.com/TencentCloudBase/cloudbase-framework">
-  <img alt="TencentCloudBase" width="22px" src="https://i.loli.net/2020/10/24/elkHYDSqr5sym87.png" />
+  <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
 </a>
 <a href="https://github.com/spritejs/spritejs">
-  <img alt="spritejs" width="22px" src="https://i.loli.net/2020/10/24/DRZtCPp8mjfwO3F.png" />
+  <img alt="spritejs" width="22px" src="https://user-images.githubusercontent.com/41336612/118458741-a2f04a00-b72d-11eb-96b1-376f655a7ebb.png" />
 </a>
 <a href="https://github.com/Tencent/Hippy">
-  <img alt="Tencent" width="22px" src="https://i.loli.net/2020/10/24/8jTdqn2yHGiNbRc.png" />
+  <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
 </a>
 <!-- <a href="https://github.com/liulinboyi">
   <img alt="wechat-miniprogram" width="22px" src="https://i.loli.net/2020/10/24/1WZebt5i7JSRmvM.png" />
@@ -63,7 +63,7 @@
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <!-- <img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" /> -->
 
-<img align="right" width="50%" height="100%" src="https://i.loli.net/2020/10/24/p9uHA7jg5LKIY18.jpg" />
+<img align="right" width="50%" height="100%" src="https://user-images.githubusercontent.com/41336612/118459003-df23aa80-b72d-11eb-90ce-674ccae96e09.jpg" />
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
