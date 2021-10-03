@@ -1,4 +1,4 @@
-<!-- ![Metrics](https://metrics.lecoq.io/liulinboyi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai) -->
+![Metrics](https://metrics.lecoq.io/liulinboyi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
 
 <!-- <a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
@@ -59,20 +59,20 @@
 
 <!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
-<!-- ![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true) -->
+![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <!-- <img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" /> -->
 
-<img align="right" width="50%" height="100%" src="https://user-images.githubusercontent.com/41336612/118459003-df23aa80-b72d-11eb-90ce-674ccae96e09.jpg" />
+<img align="right" width="30%" height="50%" src="https://user-images.githubusercontent.com/41336612/118459003-df23aa80-b72d-11eb-90ce-674ccae96e09.jpg" />
 
 #### 👋 My name is Albert Liu, you can also call me Xiao Liu. I am a Front-end developer. I live in China now.
 
 <!-- #### 🧰 Vue, Angular, TypeScript, Mini Program are all familiar, React has written some code. -->
 <!-- Currently looking for a job -->
 
-#### 📫 xiaoliumail@foxmail.com
+<!-- #### 📫 xiaoliumail@foxmail.com -->
 
 #### “有时我不得不放下笔，叹口气。但我喜欢这个主题，我不会放弃。” —— <a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%B4%9E%E4%BB%AA">王贞仪</a>
 
