@@ -1,6 +1,6 @@
-![Metrics](https://metrics.lecoq.io/liulinboyi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/liulinboyi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai) -->
 
-<a href="#814921718">
+<!-- <a href="#814921718">
   <img align="left" alt="814921718" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#814921718">
@@ -14,20 +14,19 @@
 </a>
 <a href="https://github.com/liulinboyi">
   <img align="left" alt="liulinboyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
+</a> -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 
 <br/>
-<a href="#">
+<!-- <a href="#">
 <img height="27px" src="https://user-images.githubusercontent.com/41336612/118458283-29585c00-b72d-11eb-8564-c1465a006c9d.png" />
 </a>
 <a href="https://opencollective.com/china-liulinboyi">
   <img alt="Sponsors" width="22px" src="https://user-images.githubusercontent.com/41336612/118458353-3d9c5900-b72d-11eb-9679-9f3f42c3ee86.png" />
-</a>
+</a> -->
 
-<br/>
+<!-- <br/>
 <a href="#">
 <img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
 </a>
@@ -48,7 +47,8 @@
 </a>
 <a href="https://github.com/Tencent/Hippy">
   <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
-</a>
+</a> -->
+
 <!-- <a href="https://github.com/liulinboyi">
   <img alt="wechat-miniprogram" width="22px" src="https://i.loli.net/2020/10/24/1WZebt5i7JSRmvM.png" />
 </a> -->
@@ -60,6 +60,8 @@
 <!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
 ![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <!-- <img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" /> -->
 
