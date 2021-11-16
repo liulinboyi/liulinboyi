@@ -59,7 +59,7 @@
 
 <!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
-![liulinboyi's github stats](https://github-readme-status.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+![liulinboyi's github stats](https://github-readme-stats.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
