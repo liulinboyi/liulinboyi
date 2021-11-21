@@ -19,12 +19,12 @@
 
 
 <br/>
-<!-- <a href="#">
+<a href="#">
 <img height="27px" src="https://user-images.githubusercontent.com/41336612/118458283-29585c00-b72d-11eb-8564-c1465a006c9d.png" />
 </a>
 <a href="https://opencollective.com/china-liulinboyi">
   <img alt="Sponsors" width="22px" src="https://user-images.githubusercontent.com/41336612/118458353-3d9c5900-b72d-11eb-9679-9f3f42c3ee86.png" />
-</a> -->
+</a>
 
 <!-- <br/>
 <a href="#">
