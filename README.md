@@ -16,18 +16,22 @@
   <img align="left" alt="liulinboyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a> -->
 
+#### [欢迎赞助 Welcome Sponsor](https://afdian.net/a/liulinboyi)
+Working on "answering questions in the Vue community," "developing Vite plugins," and some npm packages.
 
-#### [我的赞助](https://opencollective.com/china-liulinboyi)
+「在Vue社区中回答问题 「开发Vite插件「以及一些npm包
+
+#### [我赞助的 I sponsored](https://opencollective.com/china-liulinboyi)
 <!-- <br/> -->
 <a href="#">
-<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458283-29585c00-b72d-11eb-8564-c1465a006c9d.png" />
-</a>
+<!-- <img height="27px" src="https://user-images.githubusercontent.com/41336612/118458283-29585c00-b72d-11eb-8564-c1465a006c9d.png" /> -->
+<!-- </a>
 <a href="https://opencollective.com/china-liulinboyi">
   <img alt="Sponsors" width="22px" src="https://user-images.githubusercontent.com/41336612/118458353-3d9c5900-b72d-11eb-9679-9f3f42c3ee86.png" />
 </a>
 <a href="https://github.com/vuejs/vue-next">
   <img alt="vue-next" width="22px" src="https://user-images.githubusercontent.com/41336612/118458538-73d9d880-b72d-11eb-8ba4-954638e5f0ec.png" />
-</a>
+</a> -->
 
 <!-- <br/>
 <a href="#">
