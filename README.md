@@ -68,9 +68,9 @@ Working on "answering questions in the Vue community," "developing Vite plugins,
 
 <!-- ![MyPc](https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg) -->
 
-![liulinboyi's github stats](https://github-readme-stats.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true)
+<!-- ![liulinboyi's github stats](https://github-readme-stats.vercel.app/api?username=liulinboyi&show_icons=true&hide_border=true) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=liulinboyi) -->
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <!-- <img align="right" width="532px" height="399px" src="https://i.loli.net/2020/09/08/KDwzP5uYBq4acHr.jpg" /> -->
 
